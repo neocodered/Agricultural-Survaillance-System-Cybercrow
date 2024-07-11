@@ -18,8 +18,7 @@ An innovative surveillance system designed to enhance crop protection and monito
 
 This project represents a significant step forward in agricultural technology, aiming to empower farmers with the tools they need to protect their crops and promote sustainable farming practices.
 
-Link for the computer vision(animal detection) is provided  
-([SLIOT-Challenge](https://github.com/NidulaGunawardana/SLIOT-Challenge))
+Link for the computer vision(animal detection) is provided ([SLIOT-Challenge](https://github.com/NidulaGunawardana/SLIOT-Challenge))
 
 
 
